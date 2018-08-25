@@ -26,7 +26,7 @@ function makeInt(n){
   parseInt(n)
   return n
   parseInt(0)
-  isNaN(makeInt('asdfa'))
+  isNaN(makeInt(n))
 }
 
 function preserveDecimal(n){
