@@ -23,12 +23,6 @@ function dec(n){
 }
 
 
-function makeInt(n){
-  parseInt(n)
-  return n
-  parseInt('Nicken')
-}
-
 function preserveDecimal(n){
   n = parseFloat(n)
   return n
