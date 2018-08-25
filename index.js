@@ -32,7 +32,3 @@ function preserveDecimal(n){
   n = parseFloat(n)
   return n
 }
-
-funtion makeInt(n){
-  makeInt(n)
-}
