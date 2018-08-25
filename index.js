@@ -25,7 +25,7 @@ function dec(n){
 function makeInt(n){
   parseInt(n)
   return n
-  makeInt(n*0)
+  parseInt(n*0)
   isNaN(makeInt('asdfa'))
 }
 
