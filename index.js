@@ -23,7 +23,6 @@ function dec(n){
 }
 
 
-
 function preserveDecimal(n){
   n = parseFloat(n)
   return n
