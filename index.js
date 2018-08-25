@@ -23,6 +23,10 @@ function dec(n){
 }
 
 
+function makeInt(n){
+  parseInt(n)
+  parseInt('Nicken')
+}
 
 function preserveDecimal(n){
   n = parseFloat(n)
